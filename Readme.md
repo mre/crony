@@ -19,7 +19,7 @@ and start the scheduler using foreman:
 bundle exec foreman start
 ```
 
-Your crony won't do much yet (except for printing it's heartbeat), so add some cron jobs now. And better delete that example job before you use it seriously.
+Your crony won't do much yet (except for printing its heartbeat), so add some cron jobs now. And better delete that example job before you use it seriously.
 
 
 Adding Cron Jobs
